@@ -2,12 +2,12 @@ body {
   margin: 0;
 }
 header {
-  background-color: #373738;
+  background-color: #c4d7b4;
   padding: 15px;
 }
 header ul {
   float: right;
-  color: white;
+  color: rgb(0, 0, 0);
 }
 header li {
   display: inline-block;
